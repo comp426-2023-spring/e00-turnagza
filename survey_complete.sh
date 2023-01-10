@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=NULL
+EXAMCODE=surreal cat shoes potatoes abcdef
 
 echo ${EXAMCODE}
