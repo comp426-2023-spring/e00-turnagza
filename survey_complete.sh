@@ -1,5 +1,5 @@
 #!/bin/bash
 
-EXAMCODE=surreal cat shoes potatoes abcdef
+EXAMCODE=https://classroom.github.com/a/icG2oERU
 
 echo ${EXAMCODE}
